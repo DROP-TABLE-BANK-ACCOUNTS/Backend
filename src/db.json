@@ -1,0 +1,25 @@
+{
+    "fitnessData": [
+        {
+            "userName": "Jhon",
+            "stepCount": 5000,
+            "heartRate": 96,
+            "spO2": 98,
+            "Date": "20240730"
+        },
+        {
+            "userName": "Jhon",
+            "stepCount": 2000,
+            "heartRate": 98,
+            "spO2": 99,
+            "Date": "20240729"
+        },
+        {
+            "userName": "Jhon",
+            "stepCount": 1000,
+            "heartRate": 84,
+            "spO2": 98,
+            "Date": "20240728"
+        }
+    ]
+}
